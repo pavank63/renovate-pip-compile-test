@@ -12,7 +12,7 @@ click==8.1.0
     # via -r requirements.txt
 idna==3.11
     # via requests
-pyyaml==6.0.1
+pyyaml==6.0.3
     # via -r requirements.txt
 requests==2.31.0
     # via -r requirements.txt
