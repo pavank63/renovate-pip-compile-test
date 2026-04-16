@@ -1,0 +1,9 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "pip_requirements": {
+    "enabled": false
+  },
+  "pip-compile": {
+    "managerFilePatterns": ["requirements.txt"]
+  }
+}

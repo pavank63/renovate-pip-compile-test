@@ -1,0 +1,3 @@
+# use old versions so Renovate has something to update
+fromager==0.78.0
+pyyaml==6.0.1
