@@ -24,7 +24,7 @@ click==8.3.2
     #   uvicorn
 elfdeps==0.2.0
     # via fromager
-fromager==0.78.0
+fromager==0.85.0
     # via -r requirements.in
 h11==0.16.0
     # via uvicorn
@@ -40,6 +40,8 @@ markdown-it-py==4.0.0
     # via rich
 mdurl==0.1.2
     # via markdown-it-py
+packageurl-python==0.17.6
+    # via fromager
 packaging==26.1
     # via
     #   fromager
@@ -69,9 +71,6 @@ requests==2.33.1
     # via
     #   fromager
     #   pypi-simple
-    #   requests-mock
-requests-mock==1.12.1
-    # via fromager
 resolvelib==1.2.1
     # via fromager
 rich==15.0.0
